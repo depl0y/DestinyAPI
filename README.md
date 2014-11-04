@@ -1,4 +1,4 @@
 DestinyAPI
 ==========
 
-Destiny API tests
+It will include info about the "open" Destiny API.

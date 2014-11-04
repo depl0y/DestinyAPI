@@ -1,1 +1,1 @@
-dsfa
+This wiki will contain public and protected API information for the Destiny API.

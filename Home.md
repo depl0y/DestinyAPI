@@ -3,5 +3,5 @@ DestinyAPI
 
 It will include info about the "open" Destiny API.
 
-*[User information](http://wiki.destinypublic.com/User-Information)
-*[Protected](http://wiki.destinypublic.com/Protected-API-calls)
+[*][User information](http://wiki.destinypublic.com/User-Information)
+[*][Protected](http://wiki.destinypublic.com/Protected-API-calls)

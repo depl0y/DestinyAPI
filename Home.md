@@ -1,1 +1,4 @@
-This wiki will contain public and protected API information for the Destiny API.
+DestinyAPI
+==========
+
+It will include info about the "open" Destiny API.

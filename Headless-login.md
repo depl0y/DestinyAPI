@@ -1,4 +1,6 @@
-`
+This is a small script to grab the required bungie cookies, this enables you to query the 'protected' API calls.
+
+```
 import requests
 
 method = "XBL"
@@ -47,4 +49,4 @@ with requests.session() as s:
 
     else:
         print "Redirect did not work"
-`
+```

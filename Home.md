@@ -2,3 +2,5 @@ DestinyAPI
 ==========
 
 It will include info about the "open" Destiny API.
+
+[User information](http://wiki.destinypublic.com/User-information-flow)

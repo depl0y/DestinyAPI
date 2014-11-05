@@ -1,7 +1,7 @@
 # Protected APIs
 
 ## Grab Vendor Information
-http://www.bungie.net/Platform/Destiny/1/MyAccount/Character/[Character ID]/Vendor/[Vendor ID]/
+* /Platform/Destiny/1/MyAccount/Character/[Character ID]/Vendor/[&lt;Vendor ID&gt;](http://wiki.destinypublic.com/preview#Vendor-IDs)/
 
 
 ##Vendor IDs

@@ -6,3 +6,4 @@ http://www.bungie.net/Platform/Destiny/1/MyAccount/Character/[Character ID]/Vend
 
 **Vendor IDs**  
 **1575820975** : Warlock Vanguard
+**3003633346** : Hunter Vanguard

@@ -2,7 +2,7 @@ DestinyAPI
 ==========
 
 ## Scripts
-* [Perform Login](http://wiki.destinypublic.com/Bungie-Cookies)
+* [Perform Login](http://wiki.destinypublic.com/Scripts/Cookies)
 
 ## Sample API calls
 

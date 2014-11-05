@@ -15,3 +15,6 @@ Vendor ID|Vendor name
 **1821699360**|Future War Cult
 **459708109**|Shipwright
 **3611686524**|Dead Orbit
+**570929315**|Gunsmith
+**4269570979**|Cryptarch
+**3917130357**|Special Orders

@@ -5,7 +5,7 @@ DestinyAPI
 
 * [User information](http://wiki.destinypublic.com/User-Information)
 * [Protected](http://wiki.destinypublic.com/Protected-API-calls)
-* [Grab them Bungie cookies](http://wiki.destinypublic.com/Bungie-Cookies)
+* [Perform Login](http://wiki.destinypublic.com/Bungie-Cookies)
 
 ## Hashes
 * [Vendor Hashes](http://wiki.destinypublic.com/Hashes/Vendors)

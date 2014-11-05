@@ -6,6 +6,8 @@ http://www.bungie.net/Platform/Destiny/1/MyAccount/Character/[Character ID]/Vend
 
 ##Vendor IDs
 
+The following ID's can be used to query a certain Vendor. This list is probably not complete.
+
 Vendor ID|Vendor name
 ---------|------------
 **1575820975**|Warlock Vanguard  

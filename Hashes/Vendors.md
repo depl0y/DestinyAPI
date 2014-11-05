@@ -1,5 +1,3 @@
-##Vendor IDs
-
 The following ID's can be used to query a certain Vendor. This list is probably not complete.
 
 Vendor ID|Vendor name

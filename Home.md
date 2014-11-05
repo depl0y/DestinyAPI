@@ -1,11 +1,13 @@
 DestinyAPI
 ==========
 
+## Scripts
+* [Perform Login](http://wiki.destinypublic.com/Bungie-Cookies)
+
 ## Sample API calls
 
 * [User information](http://wiki.destinypublic.com/User-Information)
 * [Protected](http://wiki.destinypublic.com/Protected-API-calls)
-* [Perform Login](http://wiki.destinypublic.com/Bungie-Cookies)
 
 ## Hashes
 * [Vendor Hashes](http://wiki.destinypublic.com/Hashes/Vendors)

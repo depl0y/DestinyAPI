@@ -11,3 +11,4 @@ Vendor ID|Vendor name
 **1575820975**|Warlock Vanguard  
 **3003633346**|Hunter Vanguard  
 **1990950**|Titan Vanguard  
+**1821699360**|Future War Cult

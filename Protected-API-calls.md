@@ -1,3 +1,8 @@
 <h2>Protected</h2>
 
-* http://www.bungie.net/platform/Destiny/TigerXbox/MyAccount/Character/2305843009244775435/Vendors/
+**Grab Vendor Information**  
+http://www.bungie.net/Platform/Destiny/1/MyAccount/Character/[Character ID]/Vendor/[Vendor ID]/
+
+
+**Vendor IDs**  
+**1575820975** : Warlock Vanguard

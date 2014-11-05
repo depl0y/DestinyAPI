@@ -18,4 +18,4 @@ Vendor ID|Vendor name
 **570929315**|Gunsmith
 **4269570979**|Cryptarch
 **3917130357**|Special Orders
-** 1527174714**|Bounty Tracker
+**1527174714**|Bounty Tracker

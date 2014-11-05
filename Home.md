@@ -8,7 +8,7 @@ DestinyAPI
 * [Grab them Bungie cookies](http://wiki.destinypublic.com/Bungie-Cookies)
 
 ## Hashes
-### [Vendor Hashes](http://wiki.destinypublic.com/Hashes/Vendors)
+* [Vendor Hashes](http://wiki.destinypublic.com/Hashes/Vendors)
 
 ## Other resources
 * [Platform Endpoints](https://github.com/SargoDarya/bungie-platform/blob/develop/endpoints.txt)
